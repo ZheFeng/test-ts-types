@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
     "draggabilly": "^2.1.1",
     "typescript": "^2.2.1"
